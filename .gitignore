@@ -1,0 +1,3 @@
+# Generated data (regenerate with generate_invoices.py)
+*.csv
+__pycache__/
